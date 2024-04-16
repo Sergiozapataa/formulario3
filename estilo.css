@@ -1,0 +1,23 @@
+div{
+    border-style: dotted;
+    border-color: rgb(221, 71, 71);
+    width: 200px;
+    height: 100px;
+    background-color: aliceblue;
+}
+
+.contenedor {
+    border-style: dashed;
+    border-color: rgb(221, 71, 196);
+    width: 250pxpx;
+    height: 100px;
+    background-color: rgb(143, 183, 218);
+}
+
+#box {
+    border-bottom: tomato;
+    border-color: aqua;
+    width: 200px;
+    height: 60px;
+    font-family: Cambria;
+}
